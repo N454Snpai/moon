@@ -1,6 +1,6 @@
 #!/bin/bash
 #menu
-echo -e  ;figlet "moon"
+echo -e  ;figlet "\033[1;95mmoon\033[1;00m"
 echo -e "[   ""\033[1;93mwelcome to moon tools v1.0\033[1;00m""   ]"
 echo -e "[   made by @n454_snpai          ]"
 echo -e "[   follow @3xploit.id           ]"
