@@ -16,6 +16,8 @@ git clone https://github.com/N454Snpai/moon
 
 cd Moon
 
+bash moon.sh
+
 ```
 
 # Support developer tools
